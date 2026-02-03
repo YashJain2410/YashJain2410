@@ -87,15 +87,15 @@ Engineering student from 🇮🇳 India with strong interest in <b>AI, Machine L
 <h2>📊 GitHub Stats</h2>
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashjain2410&show_icons=true&locale=en&layout=compact" alt="yashjain2410" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashjain2410&show_icons=true&locale=en&layout=compact" alt="YashJain2410" />
 </p>
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashjain2410&show_icons=true&locale=en" alt="yashjain2410" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashjain2410&show_icons=true&locale=en" alt="YashJain2410" />
 </p>
 
 <p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashjain2410" alt="yashjain2410" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashjain2410" alt="YashJain2410" />
 </p>
 
 ---
